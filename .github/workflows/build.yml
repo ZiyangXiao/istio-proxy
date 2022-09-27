@@ -7,7 +7,7 @@ on:
     branches: [ release-*-intel ]
 
 env:
-  HUB: ghcr.io/${{ github.repository }}
+  HUB: ghcr.io/ziyangxiao
 
 jobs:
   build:
